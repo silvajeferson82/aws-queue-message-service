@@ -9,7 +9,7 @@
   npm install
 ```
 
-### 1 - Serviço de criação, busca e listagem de filas
+## 1 - Serviço de criação, busca e listagem de filas
   - criação - Informar o nome da queue via parametro na função create('SQS_NAME_QUEUE'), e rodar o comando:
   ```bash
     npm run dev:create
