@@ -35,9 +35,9 @@
 
 
  ## A lista completa de comandos do @aws-sdk/client-sqs pode ser consultado em:
- ```bash
- https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-sqs/index.html
-```
+ 
+ - @aws-sdk/client-sqs -[https://docs.aws.amazon.com/AWSJavaScriptSDK/](v3/latest/clients/client-sqs/index.html)
+
 ## Stay in touch
 
 - Author - [Jeferson Silva](https://github.com/silvajeferson82)
