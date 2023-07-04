@@ -31,7 +31,7 @@ export const receiveMessage = async (queueUrlPrefix: string): Promise<QueueDTO> 
   try {
     const request = new ReceiveMessageCommand(params)
     const { $metadata, Messages } = await sqs.send(request);
-    console.log(Messages);
+    
     return {
       status: $metadata.httpStatusCode,
       messages: Messages
